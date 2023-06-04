@@ -2,8 +2,6 @@
 
 ## An introduction to NodeJS and Express
 
----
-
 ### 1-Explain middleware
 
 A Node.js function called middleware is used to manage requests and responses. It allows you to expand the functionality of your program without having to completely redesign it. Middleware can be used for many different things, including routing, logging, and authentication.
@@ -28,8 +26,6 @@ For developers, the idea of modularity is helpful since it may raise the quality
 
 ## What is NPM?
 
----
-
 ### 1-What version of npm are you running on your machine?
 
 v18.13.0
@@ -39,8 +35,6 @@ v18.13.0
 npm i jshint
 
 ## What is TDD?
-
----
 
 ### 1-Explain why tests are important  
 
@@ -68,8 +62,6 @@ Writing tests that are not readable or maintainable, which can make them hard to
 Writing tests that are not consistent or aligned with the team’s standards and practices, which can cause confusion or conflicts among team members.
 
 ## CI/CD
-
----
 
 ### 1- What are three benefits of Continuous Integration?
 
