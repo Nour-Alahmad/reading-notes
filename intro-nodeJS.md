@@ -1,7 +1,7 @@
 
-# Reading Notes - Class 1
+# NodeJS
 
-## 1-How would I describe Node to a non-technical friend?
+## 1-How would I describe NodeJS to a non-technical friend?
 
 NodeJS is an environment that allows you to build interactive and dynamic webpages using JavaScript, basically it allows you to writea code that runs on your computer rather than only on a web browser, giving you greater autonomy and control over how your website works.
 

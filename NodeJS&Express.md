@@ -1,6 +1,6 @@
-# Reading Notes - Class 2
+# An introduction to NodeJS and Express
 
-## An introduction to NodeJS and Express
+## NodeJS and Express
 
 ### 1-Explain middleware
 
