@@ -48,3 +48,8 @@ git clone https://github.com/your-username/reading-notes.git
 ```
 
 Once cloned, you can navigate through the files and read the notes in your preferred text editor or markdown viewer.
+
+
+
+![Alt text](image.png)
+![Alt text](image-1.png)
